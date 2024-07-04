@@ -1,6 +1,6 @@
 # Clifty_Avarvok
 
-![Uploading 1000208494.jpg…]()
+
 
 
 
@@ -19,9 +19,10 @@
 ⓵ pkg update && pkg upgrade -y && pkg install git -y
 
 ② git clone https://github.com/Alygnt/Clifty
-cd Clifty
 
-③ bash clifty.sh
+3 cd Clifty
+
+4 bash clifty.sh
 
 برای اجرا  در کالی لینوکس 
 
